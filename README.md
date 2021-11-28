@@ -13,7 +13,7 @@ Dependencies
 - Pytorch
 - Tensorflow 2.0 이상
 
-O-Yes_IK.py : 알고리즘을 이용한 졸음판단
+O-Yes_IK.py : 알고리즘을 이용한 졸음판단 \n
 O-Yes_JT.py : 행동패턴을 이용한 졸음판단
 
 실행>
