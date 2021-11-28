@@ -2,6 +2,8 @@
 
 SW-OpenBank 영남대학교 ILLA팀 소스코드
 
+개발환경 : Ubuntu 18.04
+
 Dependencies
 - Python 3.7
 - ONNX Runtime
