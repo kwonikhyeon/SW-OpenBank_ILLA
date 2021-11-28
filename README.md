@@ -1,4 +1,4 @@
-# SW-OpenBank_ILLA
+## SW-OpenBank_ILLA
 
 SW-OpenBank 영남대학교 ILLA팀 소스코드
 
@@ -13,8 +13,8 @@ Dependencies
 - Pytorch
 - Tensorflow 2.0 이상
 
-1. O-Yes_IK.py : 알고리즘을 이용한 졸음판단
-2. O-Yes_JT.py : 행동패턴을 이용한 졸음판단
+#1. O-Yes_IK.py : 알고리즘을 이용한 졸음판단
+#2. O-Yes_JT.py : 행동패턴을 이용한 졸음판단
 
 실행>
 ```
